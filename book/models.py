@@ -8,4 +8,4 @@ class Book(models.Model):
 
 # dumb test comment
 # didn't work. So here is 2nd comment
-
+# This comment is from my home computer, where I cloned the project. Does it make it to work computer?
