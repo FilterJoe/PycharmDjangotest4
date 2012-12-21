@@ -9,3 +9,5 @@ class Book(models.Model):
 # dumb test comment
 # didn't work. So here is 2nd comment
 # This comment is from my home computer, where I cloned the project. Does it make it to work computer?
+
+# Lastly, a comment form my Windows 7 Pycharm install. If this works, then all is well in the world!
